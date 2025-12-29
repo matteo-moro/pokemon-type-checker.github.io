@@ -125,7 +125,8 @@
 		{"name": "Crabrawler","type1": "fighting","type2": null},
 		{"name": "Crabominable","type1": "fighting","type2": "ice"},
 		{"name": "Salandit","type1": "poison","type2": "fire"},
-		{"name": "Salazzle","type1": "poison","type2": "fire"},
+		{"name": "Salazzle","type1": "poison","type2": "fire"}
 	]
 }
+
 
