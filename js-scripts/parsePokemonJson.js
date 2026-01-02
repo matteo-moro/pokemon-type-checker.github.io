@@ -7,4 +7,5 @@ data.pokemonlist.forEach(function(pokemon)
 	var option = document.createElement("option");
 	option.value = pokemon.name;
 	pokemonNameList.appendChild(option);
+
 })
