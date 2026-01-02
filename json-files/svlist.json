@@ -337,7 +337,7 @@
 		{"name": "Dragapult","type1": "dragon","type2": "ghost"},
 		{"name": "Glimmet","type1": "rock","type2": "poison"},
 		{"name": "Glimmora","type1": "rock","type2": "poison"},
-		{"name": "Rotom","type1": "electric","type2": "ghost"}
+		{"name": "Rotom","type1": "electric","type2": "ghost"},
 		{"name": "Rotom (Frost)","type1": "electric","type2": "ice"},
 		{"name": "Rotom (Heat)","type1": "electric","type2": "fire"},
 		{"name": "Rotom (Mow)","type1": "electric","type2": "grass"},
