@@ -12,3 +12,6 @@ retrieves the pokemon json from internal memory (where it is stored as a string)
 #### updatePokemonJson.js
 if the flag set by getIfUpdate.js is true then updates a value in the local storage to store the string containing the text from svlist.json for future usage.  
 If the flag is false then does not update the data stored
+
+## Other
+documentation of the json files should be in the json-files folder
