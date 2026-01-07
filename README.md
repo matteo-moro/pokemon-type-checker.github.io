@@ -4,7 +4,7 @@ Currently heavily WIP, hopefully finished in time for champions.
 
 ## TODO
 - [ ] Fix table scaling on small viewport (low prio)
-- [ ] Finish pokemon sv json (WIP)
+- [X] Finish pokemon sv json
 - [X] Change json parsing to store data in local storage
 - [ ] Implement the actual type chart
 
