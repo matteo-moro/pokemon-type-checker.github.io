@@ -1,5 +1,5 @@
 var request = new XMLHttpRequest();
-window.pokemonList = document.getElementById("pokemon-name-datalist");
+window.pokemonDatalist = document.getElementById("pokemon-name-datalist");
 
 request.onreadystatechange = function(response)
 {
@@ -10,7 +10,7 @@ request.onreadystatechange = function(response)
         {
             var option = document.createElement("option");
             option.value = pokemon.name;
-            pokemonList.appendChild(option);
+            pokemonDatalist.appendChild(option);
         })
     }
 }
